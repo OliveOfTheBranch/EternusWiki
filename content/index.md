@@ -1,6 +1,4 @@
 ---
 title: Welcome to Eternus
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This website serves as the official wiki for all campaigns and stories set in the Eternus setting.

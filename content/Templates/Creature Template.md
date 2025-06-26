@@ -2,20 +2,7 @@
 aliases: 
 draft: "true"
 ---
-
-| CREATURE/RACE      |               |
-| ------------------ | ------------- |
-| **Archetype**      |               |
-| **Size**           |               |
-| **Lifespan**       |               |
-| **Places**         | <ul><li></ul> |
-| **Languages**      | <ul><li></ul> |
-| **Patron Deities** | <ul><li></ul> |
-
-<br>
-
-Text.
-
+###### {Size} {Archetype}
 ## Description
 
 
@@ -23,9 +10,10 @@ Text.
 Text.
 
 #### Personality
-Text.
+Text. Languages.
 
 ## Abilities
 
 
 ## History
+Places. Patron deity.

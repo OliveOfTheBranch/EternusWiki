@@ -6,7 +6,7 @@
 The Twelve Who Came Before are the original gods of [[Eternus]] who descended from the heavenly [[Veil]]. The pantheon consists of:
 
 - **[[Non-Player Characters/Lathander]], the Morninglord**
-- **[[Non-Player Characters/Polark]], the Crushing Deep**
+- **[[Non-Player Characters/Pölark]], the Crushing Deep**
 - **[[Titania]], the Fey Queen**
 - [[Mab]], the Duskmatron
 - [[Octavian]], the Piper

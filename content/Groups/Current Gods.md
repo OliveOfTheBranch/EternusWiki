@@ -6,14 +6,14 @@
 The current gods of Eternus include both the remaining gods of [[Groups/The Twelve Who Came Before]] and the new usurper gods. These include:
 
 - **[[Non-Player Characters/Lathander]], the Morninglord**
-- **[[Non-Player Characters/Polark]], the Crushing Deep**
+- **[[Non-Player Characters/Pölark]], the Crushing Deep**
 - **[[Titania]], the Fey Queen**
-
+</br>
 - [[Asmodeus]], Lord of the Hells
 - [[Clio Sara]], Goddess of the Hunt
 - [[Orcus]], God of Undeath
-
-- [[Alexandria]], Goddess of the Moon
+</br>
+- [[Non-Player Characters/Alexandria]], Goddess of the Moon
 - [[Gruumsh]], the Ruiner
 - [[Lolth]], the Spider Queen
 - [[Sigurd]], God of Heroes

@@ -8,11 +8,11 @@ The current gods of Eternus include both the remaining gods of [[Groups/The Twel
 - **[[Non-Player Characters/Lathander]], the Morninglord**
 - **[[Non-Player Characters/Pölark]], the Crushing Deep**
 - **[[Titania]], the Fey Queen**
-<br>
+<hr>
 - [[Asmodeus]], Lord of the Hells
 - [[Clio Sara]], Goddess of the Hunt
 - [[Orcus]], God of Undeath
-<br>
+<hr>
 - [[Non-Player Characters/Alexandria]], Goddess of the Moon
 - [[Gruumsh]], the Ruiner
 - [[Lolth]], the Spider Queen

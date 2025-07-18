@@ -5,3 +5,5 @@
 This website serves as the official wiki for all campaigns and stories set in the Eternus setting.
 
 [[Groups/The Twelve Who Came Before]]
+
+[[Groups/The Twelve Houses of the Sara Dominion]]

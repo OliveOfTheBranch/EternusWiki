@@ -12,4 +12,4 @@ When the Agon began, the first god to be killed was [[Non-Player Characters/Typh
 Following the discovery that gods were not only mortal, but could be killed, three more gods were slain. In retaliation for starting the Blood War—and as a way to end it—Archangel [[Non-Player Characters/Asmodeus]] murdered the Sanguine Lord, leading to him being cast down from the Heavens by [[Non-Player Characters/Lathander]]. Seeking the power to raise an army of undead, the Demonlord [[Orcus]] travelled to [[Pandemonium]] to fight and kill [[The Veilkeeper]], giving him access to the Veil and magic of undeath. In doing so, the Veil was left unguarded, making arcane magic and resurrection possible, and inadvertently starting the Golden Age. Finally, in an act of betrayal the scheming elder dragon [[Fafnir]] attacked [[Urvox]], killing it with the power of his voice.
 
 #### The Second Agon
-The Second Agon began around a 800 years later.
+The Second Agon began around 800 years later.

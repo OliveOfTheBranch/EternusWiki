@@ -16,7 +16,7 @@ The Twelve Who Came Before are the original gods of [[Eternus]] who descended fr
 - [[Urvox]], the Convoker
 - [[Kareus]], the Soulweaver
 - [[Non-Player Characters/The Sanguine Lord]]
-- [[The Veilkeeper]]
+- [[Non-Player Characters/The Shepherd]]
 - [[The Wanderer]]
 
 With only those in bold being still alive. The rest were killed in an [[Events/Agon]], when they became mortal and their divine [[Magic/Animus]], their soul and source of their godly power, was taken from them.

@@ -2,8 +2,8 @@
 {"publish":true,"cssclasses":""}
 ---
 
-
-The Daymora Khaganate is a country on the southernmost point of Ethrys. It is comprised of four khanates, with their capital cities being:
+**Country**
+The Daymora Khaganate is a country on the southernmost point of [[Locations/Ethrys]]. It is comprised of four khanates, with their capital cities being:
 - [[Northwatch]], Northern Khanate
 - [[Karkinos]], Southern Khanate
 - [[Locations/Alkhan and Edaros]], Eastern Khanate

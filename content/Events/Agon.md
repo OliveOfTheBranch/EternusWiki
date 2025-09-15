@@ -14,3 +14,6 @@ Following the discovery that gods were not only mortal, but could be killed, thr
 
 #### The Second Agon
 The Second Agon began around 800 years later.
+
+#### The Rending
+The [[Events/Rending]] was an event that occurred 214 years after the Second Agon. While not technically being an Agon, it still had the effect of turning all gods at the time mortal. If a god was killed during the Rending, the original primordial god of its animus would return. This happened when [[Gruumsh]] was killed, leading to [[Octavian]] returning. The Piper caused a reign of terror in the [[Locations/Sara Dominion]] for a while, before being slain by [[Fenrir]] who dispersed his animus, which revived Gruumsh as a god once more.

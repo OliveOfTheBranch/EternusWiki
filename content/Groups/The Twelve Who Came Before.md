@@ -14,7 +14,7 @@ The Twelve Who Came Before are the original gods of [[Eternus]] who descended fr
 - [[Non-Player Characters/Typhon]], the Predator
 - [[Moradin]], the Allhammer
 - [[Urvox]], the Convoker
-- [[Kareus]], the Soulweaver
+- [[Non-Player Characters/Karêus]], the Soulweaver
 - [[Non-Player Characters/The Sanguine Lord]]
 - [[Non-Player Characters/The Shepherd]]
 - [[The Wanderer]]

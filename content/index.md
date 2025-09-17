@@ -8,13 +8,6 @@ This website serves as the official wiki for all campaigns and stories set in th
 Synopsis here.
 
 #### Get Started
-Have these three random pages!
-[[Locations/Chimaera\|Chimaera]]
-[[Non-Player Characters/Pölark\|Pölark]]
-[[Non-Player Characters/Pölark\|Pölark]]
-
-Alternatively, you can look at these curated pages:
-
 **The World.**
 Use these pages to begin learning about Eternus' gods and world as a whole, including some more abstract and broad concepts.
 - [[Groups/The Twelve Who Came Before]]

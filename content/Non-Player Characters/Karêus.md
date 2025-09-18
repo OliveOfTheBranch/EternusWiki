@@ -2,7 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
-**(they/it) - NPC**
+###### (they/it) - NPC
 ![[Resources/soulweaver.png|300]]
 
 The primordial god of dreams, Karêus breathed life into the first mortals by giving them souls based upon its own [[Magic/Animus]].

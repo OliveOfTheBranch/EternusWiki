@@ -3,7 +3,7 @@
 ---
 
 
-> [!warning]- (Stub) - "The truth may cower, yet we remember."
+> [!warning]- (Stub) - "Do not bite the hand that feeds."
 > This article is a stub. It requires more information on the Blood War and modern worship.
 ###### (he/him) - NPC
 The god of hate and contracts, Asmodeus was an archangel and is now the ruler of the [[Nine Hells]]. After he was cast from the heavens by [[Non-Player Characters/Lathander]], his blood imbued with rage fell on the soil of Baatur and formed into the first [[Devil\|Devils]].

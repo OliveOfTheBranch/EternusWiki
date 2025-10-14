@@ -10,7 +10,7 @@ Every Fey domain has its own Archfey ruling over it. The capital domain of the F
 - [[The Frostfell]] - [[Auril]]
 - [[Prismeer]] - Zybilna/[[Non-Player Characters/Tasha]]
 - [[Basking]] - [[Oberon]]
-- [[Shrike]] - [[Britta]]
+- [[Shrike]] - *Placeholder*
 - [[Rin’s Rook]] - [[Rin]]
 - [[Everfall]] - [[Auster]]
 - [[The Revelry]] - [[Bacchus]]

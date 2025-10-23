@@ -5,7 +5,7 @@
 ###### Country
 The Sara Dominion is a country on the east coast of [[Locations/Ethrys]]. The country encompasses the area of what was once known as the Hunting Grounds, before its namesake [[Non-Player Characters/Clio Sara]] slayed [[Non-Player Characters/Typhon]] and united the tribes to form the state. The twelve [[Groups/Hunters of Sara]] each started a bloodline that became one of the modern [[Groups/Saran Houses]]. The country is a monarchy, with the ruling house being the line of Clio Sara herself, [[Groups/House Sara]]. The current king is [[Non-Player Characters/Theodore Sara]]. 
 The Sara Dominion is comprised of the following regions:
-#### [[Locations/Chimaera]]
+#### Chimaera
 The capital of the Sara Dominion.
 #### Oldegate
 The western region of the Sara Dominion, with its city holding the space between the mountains on the border of [[Karêal]]. Oldegate was founded by [[Britta of Shrike]], when she created a gateway from the [[Locations/Feywild]] to there, becoming the first fey to step foot in [[Locations/Ethrys]].

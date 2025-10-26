@@ -16,4 +16,4 @@ Learn about the places in Eternus, including the continents of the Material Plan
 - [[Locations/Faerûn]]
 ###### The People.
 Learn about influential figures on Eternus' past, present, and future.
-- [[Player Characters/Xenevieve Sara]]
+- [[Eternus Victoria]]

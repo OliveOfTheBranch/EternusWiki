@@ -12,3 +12,5 @@ With this theory, there would be a different rite for each animus. The known rit
 [[Non-Player Characters/Typhon]]'s animus.
 #### The Rite of Ego
 [[Non-Player Characters/Karêus]]'s animus. It is thought that [[Non-Player Characters/Alexandria]] underwent the Rite of Ego by forcing herself and everyone in the world to forget who she was while she was mortal.
+#### The Wolf's Ritual
+[[Non-Player Characters/Týr Sara]]'s animus. The Wolf's Ritual, as it has been named, was a rite used by Týr Sara to change his own soul into a godly animus. The ritual amassed an overwhelming amount of [[Magic/Cardinal]] energy, and though it succeeded, it drew the ire of [[Groups/The Twelve Who Came Before]].

@@ -1,0 +1,12 @@
+---
+{"publish":true,"cssclasses":""}
+---
+
+###### City
+Arkas was a large city in the central [[Locations/Sara Dominion]] before its destruction by [[Groups/The Triad]] shortly after the [[Events/Agon#The Second Agon\|The Second Agon]]. The city was founded upon the site where the [[Aureon Mentis\|Oracle of Sara]] had built his temple, known as the [[Panopticon]]. The area around the city holds a natural enchantment which staves off roaming chimaera by making it difficult to find without guidance.
+
+After the death of [[Non-Player Characters/Typhon]], people flocked to the Arkassian region, building up a city around the Panopticon while the Oracle was still in [[Locations/Chimaera]]. Not long after, the great serpent [[Python]] surrounded the city, encircling it with his body and keeping those within hostage. The Oracle then returned home, and, spurred by [[Britta of Shrike]], was able to defeat the serpent and retake Arkas for the Sara Dominion and [[Groups/House Mentis]]. Python then fled to the coast, creating the site of [[Serpent's Folly]] in his wake.
+
+Arkas was one of two major magical cities during the [[Golden Age]], with the other being [[Sigil]]. It was also known as the Gilded City due to having its rooves layered with gold, a symbol of the cities opulence and access to alchemy and magic. Near the end of the Golden Age, it was rumoured that the High Magi of Arkas were researching a method of permanently killing gods outside of Agons. Due to the severity of the losses to [[Groups/The Twelve Who Came Before]] during the Second Agon, this rumour drew the ire of the remaining gods of the Twelve, who razed Arkas to the ground in a show of pure magical destructive force. This event, known as the Fall of Arkas or simply the Arkas Incident, killed every Arkassian within the city. Those that fled via magical means were rendered insane and tainted by wild magic.
+
+The area is now called the Ruins of Arkas, and is incredibly dangerous due to its high levels of wild magic. Those who go near enough to the ruins can see the magical singularity at the centre of the city, causing buildings and the infinite tower of the Panopticon to spiral inwards and collapse upon itself.

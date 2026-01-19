@@ -15,5 +15,5 @@ The central region. Lernaeus surrounds a large lake and is named after [[Saint L
 The coastal region. [[Port Kal’vess]] is its major city, founded where the chimaera general [[Scylla]] used to hunt due to the large amounts of aquatic fauna living in the region.
 #### Hesperides
 The jungle region in the south-western edge of the Sara Dominion. Some of this region also overlaps with the dominion of the [[Locations/Daymora Khaganate]], so there are often disputes over which country the area truly belongs to.
-#### Regulai
-[[Saint Nemea]] is known as the Vox Regulai.
+#### Bas'torus
+Includes the regions of the cities [[Regulus]] and [[Archela]].

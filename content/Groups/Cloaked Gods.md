@@ -7,7 +7,7 @@ The Cloaked Gods are a subset of [[Groups/The Twelve Who Came Before]], comprisi
 - [[Non-Player Characters/The Sanguine Lord]]
 - [[Non-Player Characters/Pölark]]
 - [[Non-Player Characters/The Shepherd]]
-- [[Non-Player Characters/Karêus]]
+- [[Non-Player Characters/Yuphra]]
 - [[Non-Player Characters/The Wanderer]]
 
 In the earliest days, almost all gods were considered cloaked gods, due to them existing in their higher forms alone. However, as time went on, many chose to take a physical avatar in order to more easily communicate with their subjects.

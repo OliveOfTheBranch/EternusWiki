@@ -9,11 +9,11 @@ The Twelve Who Came Before are the original gods of [[Eternus]] who descended fr
 - **[[Non-Player Characters/Pölark]], the Crushing Deep**
 - **[[Non-Player Characters/Titania]], the Fey Queen**
 - [[Non-Player Characters/Mab]], the Duskmatron
-- [[Octavian]], the Piper
+- [[Non-Player Characters/Octavian]], the Piper
 - [[Non-Player Characters/Typhon]], the Predator
 - [[Moradin]], the Allhammer
 - [[Non-Player Characters/Urvox]], the Convoker
-- [[Non-Player Characters/Karêus]], the Soulweaver
+- [[Non-Player Characters/Yuphra]], the Soulweaver
 - [[Non-Player Characters/The Sanguine Lord]]
 - [[Non-Player Characters/The Shepherd]]
 - [[Non-Player Characters/The Wanderer]]

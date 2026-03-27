@@ -8,7 +8,7 @@ The Sara Dominion is comprised of the following regions:
 #### [[Locations/Chimaera]]
 The capital city of the Sara Dominion. This region also covers the northern area, up to the border with [[Dreygaard]].
 #### [[Oldegate]]
-The western region of the Sara Dominion, with its city holding the space between the mountains on the border of [[Karêal]]. Oldegate was founded by [[Britta of Shrike]], when she created a gateway from the [[Locations/Feywild]] to there, becoming the first fey to step foot in [[Locations/Ethrys]]. After her passing, the region became under the protection of [[Saint Atalanta]], who began [[House Atalanta]] as the Wardens of the West. Atalanta was born in the region, and was the slayer of its chimaera general, [[Ursa]].
+The western region of the Sara Dominion, with its city holding the space between the mountains on the border of [[Yuphral]]. Oldegate was founded by [[Britta of Shrike]], when she created a gateway from the [[Locations/Feywild]] to there, becoming the first fey to step foot in [[Locations/Ethrys]]. After her passing, the region became under the protection of [[Saint Atalanta]], who began [[House Atalanta]] as the Wardens of the West. Atalanta was born in the region, and was the slayer of its chimaera general, [[Ursa]].
 #### Lernaeus
 The central region of the Sara Dominion. Lernaeus surrounds a large lake and is named after [[Saint Lerna]], who originated from the region. Its major city is [[Drachma]], a trading city that sits on the edge of [[Locations/Loch Lerna]]. After the Fall of [[Locations/Arkas]], this region now also politically encompasses what was the Arkassian region.
 #### Vess

@@ -8,4 +8,6 @@ House Mentis are the official royal oracles to the empire. They are descended fr
 
 The current head of house and only living member of the line is [[Player Characters/Xenevieve Sara]] (née Mentis). The status of the house now that they have married into the Sara line is unknown. 
 
-Their symbol is a star and laurel wreath, and their words are "Something wicked this way comes".
+House Mentis is based in [[Locations/Chimaera]].
+
+Their symbol is a star and laurel wreath, and their words are "Something wicked this way comes."

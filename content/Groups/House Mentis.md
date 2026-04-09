@@ -2,7 +2,6 @@
 {"publish":true,"aliases":"M e n t i s","cssclasses":""}
 ---
 
-
 ###### Noble House
 House Mentis ([[Sylvan]]: "of the mind") are the official royal oracles to the empire. They are descended from the [[Aureon Mentis\|Oracle of Sara]], from [[Locations/Arkas]], whose real name was lost to time, and [[Britta of Shrike\|Brittany Mentis]]. They are the only oracle to have ever predicted an Agon before it happened. 
 

@@ -3,9 +3,9 @@
 ---
 
 **Faction**
-The Harpers are a large faction from [[Locations/Faerûn]].
+The Harpers are a large faction from [[Locations/Alfheim]].
 
 #### Notable Members
-- [[Mirt]], leader of the Harpers' [[Waterdeep]] division.
+- [[Mirt]], leader of the Harpers' [[Locations/Waterdeep]] division.
 - [[Renaer Neverember]]
-- [[Rae]]
+- [[Player Characters/Rae]]

@@ -3,7 +3,7 @@
 ---
 
 ###### Continent
-Ethrys is the western continent of Eternus. While not being as large as [[Locations/Faerûn]], it makes up for this by being entirely material (unlike the east which bleeds into [[Alfheim]]). Ethrys is exclusively comprised of countries with independent governing bodies (as opposed to the autonomous city-states of the [[Impious Alliance]]). These countries are:
+Ethrys is the western continent of [[Locations/Eternus]]. While not being as large as [[Locations/Alfheim]], it makes up for this by being entirely material. Ethrys is exclusively comprised of countries with independent governing bodies (as opposed to the autonomous city-states of the [[Impious Alliance]]). These countries are:
 - The [[Locations/Sara Dominion]]
 - [[Yuphral]]
 - [[Dreygaard]]

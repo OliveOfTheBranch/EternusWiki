@@ -12,7 +12,7 @@ Sylvan is the language of the [[Locations/Feywild]]. It is spoken mostly by [[Fe
 - Via - Voice
 - Menta - Mind
 - Shrike - Blade
-
+###### Grammar
 Most Sylvan word's show possession using an apostrophe:
 - Via'Arka - Voice of Thunder
 However, some irregular words are changed to their possessive form and given the preposition "de":

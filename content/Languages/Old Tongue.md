@@ -11,6 +11,8 @@ The Old Tongue was the first and eldest language, created by [[Non-Player Charac
 - Ro - Balance
 - Ur - Old / Origin / First
 ###### Notable Speakers of the Old Tongue
-- [[Eadaz Cadmus]]
+- All [[Magic/The Divine Rites#Vox Sowing\|Vox Sowed]] members of [[Groups/House Cadmus]], including:
+	- [[Eadaz Cadmus]]
+	- [[Saint Cadmus]]
 - [[Rulaan Solstring]]
 - [[Non-Player Characters/Sigurd]]

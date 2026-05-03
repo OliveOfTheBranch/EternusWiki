@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"V i v i","cssclasses":""}
+{"publish":true,"aliases":"Vivi Xenavieve Mentis","cssclasses":""}
 ---
 
 ![[Resources/VIVIQUEEN.jpg|300]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Fenrir","cssclasses":""}
+{"publish":true,"aliases":"Fenrir Tyr Sara","cssclasses":""}
 ---
 
 ![[Resources/TYRSKETCH.jpg|300]]

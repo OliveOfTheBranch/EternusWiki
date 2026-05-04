@@ -12,7 +12,7 @@ The western region of the Sara Dominion, with its city holding the space between
 #### Lernaeus
 The central region of the Sara Dominion. Lernaeus surrounds a large lake and is named after [[Saint Lerna]], who originated from the region. Its major city is [[Drachma]], a trading city that sits on the edge of [[Locations/Loch Lerna]]. After the Fall of [[Locations/Arkas]], this region now also politically encompasses what used to be the Arkassian region.
 #### Vess
-The eastern coastal region of the Sara Dominion. [[Port Kal’vess]] is its major city, founded where the chimaera general [[Scylla]] used to hunt due to the large amounts of aquatic fauna living in the region. It is named after [[House Vess]], who themselves are named after the hunter who slayed Scylla.
+The eastern coastal region of the Sara Dominion. [[Port Kal’Vess]] is its major city, founded where the chimaera general [[Scylla]] used to hunt due to the large amounts of aquatic fauna living in the region. It is named after [[House Vess]], who themselves are named after the hunter who slayed Scylla.
 #### Hesperides
 The jungle region in the south-western edge of the Sara Dominion. Some of this region also overlaps with the dominion of the [[Locations/Daymora Khaganate]], so there are often disputes over which country the area truly belongs to.
 #### Bas'taurus

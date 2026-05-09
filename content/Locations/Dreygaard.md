@@ -1,0 +1,20 @@
+---
+{"publish":true,"aliases":"Dregaardian","cssclasses":""}
+---
+
+###### Country
+Dreygaard is a country in north-east [[Locations/Ethrys]]. It is often translated as "Blood garden", but more directly translates to "Garden where one bleeds". It shares its name with Dreygaard City, the capital of the country. The land which the country is on was once part of the far northern Hunting Grounds, and now borders the [[Locations/Sara Dominion]] to the south and [[Yuphral]] to the west. The country worships [[Non-Player Characters/The Sanguine Lord]] as their supreme god, and have outlawed all magic and worship not related to him. The current warlord is [[Magnus of Gaard]], and the current cardinal is Mother [[Gisela of Rott]].
+### History
+Originally a frigid part of the Hunting Grounds, Dreygaard was founded by Stryzga of Drey as consort to the Sanguine Lord. She began spreading her influence further north-west, to the cold places where chimaera didn't travel, before her passing in the early Golden Age. Stryzga's children then took her place as ruler, creating [[House Strzyga]] as the ruling house and beginning of the Dreygaardian monarchy. Later in the age [[Locations/Öndur]] was annexed from the Sara Dominion, displacing [[Groups/House Skadi]] in the process. Dreygaard eventually moved even further west to the Yuphrali border above the Dann mountain range, gaining total control of northern east Ethrys. In 748 GA, the Dreygaardian army staged a coup d'état on House Strzyga, claiming that their right to power being that their blood was "Blessed by the Sanguine Lord" was heretical, as it assumed that some blood was greater than others. After every member of House Stryzga was killed, the government reformed itself as a theocratic military regime, with half the state being controlled by the church ([[Red Sisters]]), headed by a cardinal, and half being controlled by the army ([[Vëlwathe]]), headed by a warlord.
+### Regions
+#### Gaard
+The most eastern region of Dreygaard, and the region in which Dreygaard City is located. It is characterised by the fields of [[Blood Lilies]] around the region. Most of the Dreygaardian population lives in Gaard.
+#### Fenris
+The western region of Dreygaard. Due to being further away from the capital, the government has less control here, and as such many militia groups have risen up to take hold of power. Due to the cold conditions, much of the food in Fenris is hunted, and many people living there worship [[Non-Player Characters/Clio Sara\|Kleos]]. Fenris also has a large population of [[Werewolves]], due to it being so close to the Lupercal and being the namesake of [[Non-Player Characters/Týr Sara]], the Fenrisülfr.
+The Fenris area also contains the city of Öndur, which was once under the dominion of [[Groups/House Skadi]] in the Sara Dominion.
+#### Südris
+The southern region of Dreygaard which runs along the border with the [[Locations/Sara Dominion]]. It is where the Treaty of Südris was signed that ended war between the Sarans and Dreygaardians. The Treaty also made it so Dreygaard and Sara swapped houses, such that House Skadi moved to live in Südris full-time, leaving only an heir in [[Locations/Chimaera]] able to make decisions for the house.
+#### Nyrdris
+The northern and most extreme region of Dreygaard. Howling winds and thick layers of snow make conditions perilous, and it likely would not be lived in if it weren't for the settlement of Sugadinti. Sugadinti was built around a deep pit into the ground in the furthest north of Nyrdris. This pit is a natural gateway to [[Pandemonium]], and so is where Dreygaard sources its [[Dimeritium]], a rare and powerful metal.
+#### Lupercal
+An area in the south west of Dreygaard, though technically an autonomous area. The Lupercal lies within the very top of Oldegate Forest, and is governed by [[Groups/The Pack]] and [[Non-Player Characters/Týr Sara]].

@@ -4,9 +4,11 @@
 
 ###### Country
 The Sara Dominion is a country on the east coast of [[Locations/Ethrys]]. The country encompasses the area of what was once known as the Hunting Grounds, before its namesake [[Non-Player Characters/Clio Sara]] slayed [[Non-Player Characters/Typhon]] and united the tribes to form the state. The twelve [[Groups/Hunters of Sara]] each started a bloodline that became one of the modern [[Groups/Saran Houses]]. The country is a monarchy, with the ruling house being the line of Clio Sara herself, [[Groups/House Sara]]. The current king is [[Non-Player Characters/Theodore Sara]]. 
-The Sara Dominion is comprised of the following regions:
+
+The flag of the sara dominion is gold and white with the symbol of a [[Creatures/Chimaera (Creatures)\|Chimaera]] wearing a crown.
+### Regions
 #### [[Locations/Chimaera]]
-The capital city of the Sara Dominion. This region also covers the northern area, up to the border with [[Dreygaard]].
+The capital city of the Sara Dominion. This region also covers the northern area, up to the border with [[Locations/Dreygaard]].
 #### [[Oldegate]]
 The western region of the Sara Dominion, with its city holding the space between the mountains on the border of [[Yuphral]]. Oldegate was founded by [[Britta of Shrike]], when she created a gateway from the [[Locations/Feywild]] to there, becoming the first fey to step foot in [[Locations/Ethrys]]. After her passing, the region became under the protection of [[Saint Atalanta]], who began [[Groups/House Atalanta]] as the Wardens of the West. Atalanta was born in the region, and was the slayer of its chimaera general, [[Ursa]].
 #### Lernaeus

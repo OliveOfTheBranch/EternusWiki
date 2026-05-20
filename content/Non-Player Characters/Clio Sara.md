@@ -7,4 +7,4 @@ The goddess of predator and prey, Clio Sara was the first mortal in history to s
 
 Clio's mortal form has dark brown hair and piercing gold eyes.
 
-Her current heir is [[Non-Player Characters/Theodore Sara]], who has his eldest daughter [[Anastasia Sara]] as his heir.
+Her current heir is [[Non-Player Characters/Theodore Sara]], who has his eldest daughter [[Non-Player Characters/Anastasia Sara]] as his heir.

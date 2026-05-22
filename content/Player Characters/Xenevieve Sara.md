@@ -13,4 +13,4 @@ She is married to King [[Non-Player Characters/Theodore Sara]], and has two chil
 
 Being both queen and from a noble house, Vivi speaks many languages, including [[Old Saran]], [[Languages/Elvish]], [[Languages/Sylvan]], and Saran Sign Language.
 
-As a [[Groups/House Mentis\|Mentis]], she is descended from [[Aureon]], the Oracle of Sara.
+As a [[Groups/House Mentis\|Mentis]], she is descended from [[Non-Player Characters/Aureon Mentis\|Aureon]], the Oracle of Sara.

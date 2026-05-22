@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Rending The First Agon The Second Agon","cssclasses":""}
+{"publish":true,"aliases":"The Rending The First Agon The Second Agon Agons","cssclasses":""}
 ---
 
 
@@ -16,4 +16,4 @@ Following the discovery that gods were not only mortal, but could be killed, thr
 The Second Agon began 814 years later.
 
 #### The Rending
-The [[Events/Rending]] was an event that occurred 214 years after the Second Agon. While not technically being an Agon (due to it being artificial rather than natural), it still had the effect of turning all gods at the time mortal. The Rending was initiated by [[Non-Player Characters/Tasha]], under the guise of the Archfey [[Zybilna]], as an attempt for her to start an Agon so that she could harvest more [[Magic/Animus]] to place within the [[Locations/Godflow Engine]]. Strangely, if a god was killed during the Rending, the original primordial god of its animus would return. This happened when [[Non-Player Characters/Gruumsh]] was killed, leading to [[Non-Player Characters/Octavian]] returning. The Piper caused a reign of terror in the [[Locations/Sara Dominion]] for a while, before being slain by [[Non-Player Characters/Týr Sara]] and [[Player Characters/Xenevieve Sara\|Xenevieve Mentis]] who dispersed his animus, which revived Gruumsh as a god once more.
+The Rending was an event that occurred 214 years after the Second Agon. While not technically being an Agon (due to it being artificial rather than natural), it still had the effect of turning all gods at the time mortal. The Rending was initiated by [[Non-Player Characters/Tasha]], under the guise of the Archfey [[Zybilna]], as an attempt for her to start an Agon so that she could harvest more [[Magic/Animus]] to place within the [[Locations/Godflow Engine]]. Strangely, if a god was killed during the Rending, the original primordial god of its animus would return. This happened when [[Non-Player Characters/Gruumsh]] was killed, leading to [[Non-Player Characters/Octavian]] returning. The Piper caused a reign of terror in the [[Locations/Sara Dominion]] for a while, before being slain by [[Non-Player Characters/Týr Sara]] and [[Player Characters/Xenevieve Sara\|Xenevieve Mentis]] who dispersed his animus, which revived Gruumsh as a god once more.

@@ -38,4 +38,4 @@ The days of the week, in order, are:
 - Baatera
 - Oblivera
 
-With each representing one of the known [[Planes of Existence]] at the time of creation. It is now missing the newly created planes of [[Mechanus]] and [[Locations/Carceri]], but it was decided that these would not be added to the calendar in order to keep parity with the Yuphrali Calendar.
+With each representing one of the known [[Planes of Existence]] at the time of creation. It is now missing the newly created planes of [[Mechanus]] and [[Locations/Carceri]], but it was decided that these would not be added to the calendar in order to keep parity with the Yuphrali Calendar. It also didn't consider [[Locations/Pandemonium]], as it was thought to be the same as the [[Magic/Veil]].

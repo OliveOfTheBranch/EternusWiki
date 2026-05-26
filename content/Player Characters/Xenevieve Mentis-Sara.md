@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Vivi Xenevieve Mentis","cssclasses":""}
+{"publish":true,"aliases":"V i v i X e n e v i e v e M e n t i s","cssclasses":""}
 ---
+
 
 ![[Resources/VIVIQUEEN.jpg|300]]
 *Art taken and slightly modified from Pinterest, and as such is not accurate to canon.*

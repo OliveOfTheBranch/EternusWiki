@@ -3,7 +3,7 @@
 ---
 
 This website serves as the official wiki for all campaigns and stories set in the [[Locations/Eternus]] setting.
-#### Get Started
+## Get Started
 ###### The World.
 Use these pages to begin learning about [[Locations/Eternus]]' gods and world as a whole, including some more abstract and broad concepts.
 - [[Groups/Current Gods]]
@@ -15,4 +15,4 @@ Learn about the places in [[Locations/Eternus]], including the continents of the
 - [[Locations/Alfheim]]
 ###### The People.
 Learn about influential figures on [[Locations/Eternus]]' past, present, and future.
-- [[Eternus Victoria]]
+- [[Groups/Eternus Victoria]]

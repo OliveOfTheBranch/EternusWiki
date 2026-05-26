@@ -17,10 +17,11 @@ These houses were formed during the founding of the Sara Dominion, with [[Non-Pl
 - [[Groups/House Skadi]]
 - [[Groups/House Nemea]]
 - [[Groups/House Ceryn]]
-- [[House Cadmus]]
+- [[Groups/House Cadmus]]
 #### Minor Houses
 These houses were formed after the founding of the Sara Dominion. Some where formed in a similar fashion to the major houses, where the founder slayed a great chimaera and nobility was formed around their lineage, but some were formed in a more modern way, due to trade and personal influence.
-- [[House Apis]]
-- [[House Taurus]]
-- [[House Vess]]
+- [[Groups/House Apis]]
+- [[Groups/House Taurus]]
+- [[Groups/House Cassalanter]]
+- [[Groups/House Vess]]
 - [[Groups/La Domus de Papillons]]

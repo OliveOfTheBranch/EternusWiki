@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Calendar
 The Alexandrian Calendar, also known as the New Ethrian Calendar, is the most commonly used system for counting days, months, years, and ages in [[Locations/Eternus]]. It was created early in the [[Burning Age]] to replace the [[Yuphrali Calendar]] given in the [[Origin Texts]], after [[Yuphral]] accepted [[Non-Player Characters/Alexandria]] as their new god. Its intention was to provide representation to the new [[Groups/Current Gods\|divine pantheon]] while accounting for ages and [[Events/Agon\|Agons]], which of course had not occurred when the Origin Texts were written.
 ## Format

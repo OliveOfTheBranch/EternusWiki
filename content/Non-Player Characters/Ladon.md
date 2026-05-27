@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### (he/it) - NPC
 Ladon was a [[Creatures/Chimaera (Creatures)\|Chimaera]] general in the Hunting Grounds of East [[Locations/Ethrys]]. He mostly hunted around the Hesperides, and was defeated by [[Non-Player Characters/Saint Meleager]], who trapped him in the Orb of Ladon. 
 

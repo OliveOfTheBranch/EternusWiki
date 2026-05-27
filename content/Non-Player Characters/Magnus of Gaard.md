@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### (he/him) - NPC
 Magnus of Gaard is the current Warlord of [[Locations/Dreygaard]], and controls the military aspects of the country. 
 

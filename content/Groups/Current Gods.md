@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Pantheon
 The current gods of Eternus include both the remaining gods of [[Groups/The Twelve Who Came Before]] and the new usurper gods. These include:
 

@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### (he/him) - NPC
 Atlas Mentis was a human from the [[Locations/Sara Dominion]]. Nestor’s two sons, [[Non-Player Characters/Xander Mentis]] and Atlas, were raised in [[Locations/Arkas]] just before [[Events/Agon#The Second Agon\|The Second Agon]]. Xander, Atlas’s older brother, became oracle at a relatively young age. Atlas saw the future in the bright colours of the sunset, and would spend hours watching the sky.
 

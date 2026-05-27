@@ -3,4 +3,5 @@
 ---
 
 
+
 The Elemental Art of Primordeus is a type of [[Magic/Magic]].

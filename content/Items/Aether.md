@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Crystal
 Aether is a type of clear, iridescent crystal, most commonly found in the bones of [[Creatures/Chimaera (Creatures)\|Chimaera]]. It is incredibly hard to break, and is valued for its powerful magical properties. Aether has the ability to amplify magic, and is often used in alchemy, enchanting, or by spellcasters in need of an extra spell slot. Aether's power comes from it being a refined, physical manifestation of [[Magic/Animus]].
 

@@ -1,11 +1,7 @@
 ---
-publish: true
-aliases:
-  - The Rending
-  - The First Agon
-  - The Second Agon
-cssclasses: ""
+{"publish":true,"aliases":"The Rending The First Agon The Second Agon","cssclasses":""}
 ---
+
 
 > [!warning]- (Stub) - "Do not bite the hand that feeds."
 > This article is a stub. It requires more information on the Second Agon.

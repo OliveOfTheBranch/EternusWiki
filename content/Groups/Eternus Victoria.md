@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Adventuring Party
 Eternus Victoria were an adventuring party that formed just before [[Events/Agon#The Rending\|The Rending]]. Its members included Queen [[Player Characters/Xenevieve Mentis-Sara]], [[Player Characters/Vuris Sanavaloth]], [[Player Characters/Silva]], and [[Player Characters/Kairo of Marwin]]. They met at the [[Witchlight Carnival]] in the [[Locations/Sara Dominion]], and banded together to find their missing companions. During their time together, they travelled through [[Prismeer]], and killed the three hags that had taken control of the realm while the archfey, [[Zybilna]], was frozen. 
 

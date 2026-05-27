@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Government
 The Saran Houses make up the government of the [[Locations/Sara Dominion]], with each house having a responsibility to fulfil.
 #### Major Houses

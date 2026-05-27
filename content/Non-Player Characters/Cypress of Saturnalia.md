@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ![[Resources/CYPRESS.png|300]]
 ###### (he/him) - NPC
 Cypress of Saturnalia is a human from the [[Locations/Sara Dominion]]. He was born on [[Saturnalia]], a Saran holiday where the upper and lower classes trade places for a day. Both of his parents died in the war against [[Yuphral]], and as a young boy, he was sent to live in the [[Groups/House Mentis]] estate to work as a high ranking servant. While there, Cypress became a close friend of [[Player Characters/Xenevieve Mentis-Sara]] as the two were around the same age. During [[Events/Agon#The Rending\|The Rending]], Cypress became romantically involved with [[Non-Player Characters/Daenerys Fletcher]], the owner of [[Locations/The Old Faithful]]. 

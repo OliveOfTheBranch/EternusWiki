@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Cardinal Armament
 Crescent is a sword that was created by [[Non-Player Characters/Yuphra]] to be their weapon in battle, alongside their hallowed lantern. When used by Yuphra, it was made of a silver so pure that it seemed to glow with moonlight.
 

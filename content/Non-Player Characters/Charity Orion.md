@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### (she/her) - NPC
 Charity Orion is the younger sister of [[Non-Player Characters/Mallory Orion]] and [[Nero Orion]]. She is also known as Charlotte or "The Charlotte".
 

@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ![[Resources/LATHANDER.jpg|300]]
 ###### (he/him) - NPC
 The primordial god of light and personification of the dawn, Lathander is the self-titled "King of the Gods". He created angels, and for a long time battled in a "[[Blood War]]" with [[Non-Player Characters/Pölark]], until he was betrayed by Archangel [[Non-Player Characters/Asmodeus]], whom he threw from the heavens. Now, he is a member of [[Groups/The Triad]], consisting of himself, [[Non-Player Characters/Pölark]], and [[Non-Player Characters/Titania]].

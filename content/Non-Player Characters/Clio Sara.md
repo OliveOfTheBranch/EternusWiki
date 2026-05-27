@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Clio Kleos","cssclasses":""}
+{"publish":true,"aliases":"C l i o K l e o s","cssclasses":""}
 ---
+
 
 ###### (she/her) - NPC
 The goddess of predator and prey, Clio Sara was the first mortal in history to slay a god. Alongside her eleven hunters, she hunted and killed [[Non-Player Characters/Typhon]], a god who had ravaged her homeland, and in doing so ascended to godhood herself. The site of ascension became the city of [[Locations/Chimaera]], and the Hunting Grounds were renamed the [[Locations/Sara Dominion]] in her honour. Upon her ascension, she chose the name Kleos to be used to refer to her as a god. She is also known as the Duchess of Wolves.

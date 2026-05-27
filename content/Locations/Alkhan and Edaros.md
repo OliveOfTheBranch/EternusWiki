@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Alkhan Edaros","cssclasses":""}
+{"publish":true,"aliases":"A l k h a n E d a r o s","cssclasses":""}
 ---
+
 
 ###### City
 Alkhan is a floating city tied down by chains to the ground in the eastern khanate. The pit in the shadow of the city is the literal underbelly of Alkhan, given its own title of city and the name Edaros by locals. While the rich and powerful mages live in Alkhan, those in squalor survive in Edaros below.

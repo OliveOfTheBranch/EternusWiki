@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+![[Resources/CERYNFLAG.png]]
 ###### Noble House
 House Ceryn is the head of foreign affairs in the [[Locations/Sara Dominion]]. They are descended from [[Saint Ceryn]], who was known as the nomadic hunter.
 

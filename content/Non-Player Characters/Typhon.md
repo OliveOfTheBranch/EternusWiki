@@ -3,6 +3,7 @@
 ---
 
 
+
 > [!warning]- (Stub) - "Do not bite the hand that feeds."
 > This article is a stub. It requires more information on Typhon's description.
 ###### (he/it) - NPC

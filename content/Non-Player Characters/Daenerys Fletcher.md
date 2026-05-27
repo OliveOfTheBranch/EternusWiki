@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### (he/him) - NPC
 Daenerys Fletcher is a half-elf from the [[Locations/Sara Dominion]]. He is also known as Dani.
 

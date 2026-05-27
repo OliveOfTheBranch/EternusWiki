@@ -3,6 +3,7 @@
 ---
 
 
+
 ###### (he/him) - NPC
 King Theodore Sara is the current ruling monarch of the [[Locations/Sara Dominion]]. He is a human, and is also known as the "Cursèd King".
 

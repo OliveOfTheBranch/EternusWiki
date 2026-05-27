@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Country
 The Ashen Empire is a group of volcanic islands just south of [[Locations/Ethrys]]. They were settled by the people of [[Yuphral]] and [[Locations/Felor]] sometime before [[Events/Agon#The First Agon\|The First Agon]], and were considered, much like Felor, to be a part of Yuphral. 
 

@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Dregaardian","cssclasses":""}
+{"publish":true,"aliases":"D r e g a a r d i a n","cssclasses":""}
 ---
+
 
 ###### Country
 Dreygaard is a country in north-east [[Locations/Ethrys]]. It is often translated as "Blood garden", but more directly translates to "Garden where one bleeds". It shares its name with Dreygaard City, the capital of the country. The land which the country is on was once part of the far northern Hunting Grounds, and now borders the [[Locations/Sara Dominion]] to the south and [[Yuphral]] to the west. The country worships [[Non-Player Characters/The Sanguine Lord]] as their supreme god, and have outlawed all magic and worship not related to him. The current warlord is [[Non-Player Characters/Magnus of Gaard]], and the current cardinal is Mother [[Non-Player Characters/Gisela of Rott]].
@@ -13,7 +14,7 @@ The most eastern region of Dreygaard, and the region in which Dreygaard City is 
 The western region of Dreygaard. Due to being further away from the capital, the government has less control here, and as such many militia groups have risen up to take hold of power. Due to the cold conditions, much of the food in Fenris is hunted, and many people living there worship [[Non-Player Characters/Clio Sara\|Kleos]]. Fenris also has a large population of [[Werewolves]], due to it being so close to the Lupercal and being the namesake of [[Non-Player Characters/Týr Sara]], the Fenrisülfr.
 The Fenris area also contains the city of [[Locations/Öndur]], which was once under the dominion of [[Groups/House Skadi]] in the Sara Dominion.
 #### Südris
-The southern region of Dreygaard which runs along the border with the [[Locations/Sara Dominion]]. It is where the Treaty of Südris was signed that ended war between the Sarans and Dreygaardians. The Treaty also made it so Dreygaard and Sara swapped houses, such that House Skadi moved to live in Südris full-time, leaving only an heir in [[Locations/Chimaera]] able to make decisions for the house.
+The southern region of Dreygaard which runs along the border with the [[Locations/Sara Dominion]]. It is where the [[Treaty of Südris]] was signed that ended war between the Sarans and Dreygaardians. The Treaty also made it so Dreygaard and Sara swapped houses, such that House Skadi moved to live in Südris full-time, leaving only an heir in [[Locations/Chimaera]] able to make decisions for the house.
 #### Nyrdris
 The northern and most extreme region of Dreygaard. Howling winds and thick layers of snow make conditions perilous, and it likely would not be lived in if it weren't for the settlement of Sugadinti. Sugadinti was built around a deep pit into the ground in the furthest north of Nyrdris. This pit is a natural gateway to [[Locations/Pandemonium]], and so is where Dreygaard sources its [[Items/Dimeritium]], a rare and powerful metal.
 #### Lupercal

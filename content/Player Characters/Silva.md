@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ![[Resources/SILVA.png|300]]
 ###### (she/her) - Played by Mieke
 Silva is a wood elf from [[Locations/Chimaera]], and member of [[Groups/Eternus Victoria]].

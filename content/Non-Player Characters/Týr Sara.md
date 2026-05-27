@@ -1,10 +1,7 @@
 ---
-publish: true
-aliases:
-  - Fenrir
-  - Tyr Sara
-cssclasses: ""
+{"publish":true,"aliases":"Fenrir Tyr Sara","cssclasses":""}
 ---
+
 
 ![[Resources/TYRSKETCH.jpg|300]]
 ###### (he/him) - NPC

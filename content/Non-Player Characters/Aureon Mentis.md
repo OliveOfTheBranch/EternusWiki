@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Aureon The Oracle of Sara Oracle of Sara","cssclasses":""}
+{"publish":true,"aliases":"A u r e o n T h e O r a c l e o f S a r a O r a c l e o f S a r a","cssclasses":""}
 ---
+
 
 > [!warning]- (Stub) - "Do not bite the hand that feeds."
 > This article is a stub. Aureon did a lot of shit, okay? This is gonna take a minute.

@@ -2,6 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
+
 ###### Pantheon
 The Cloaked Gods are a subset of [[Groups/The Twelve Who Came Before]], comprising only of the gods who never or very rarely chose to take a physical avatar, and so instead were depicted as a figure wearing a cloak. These gods were:
 - [[Non-Player Characters/The Sanguine Lord]]

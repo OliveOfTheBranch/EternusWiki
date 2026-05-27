@@ -17,3 +17,5 @@ Learn about the places in [[Locations/Eternus]], including the continents of the
 ###### The People.
 Learn about influential figures on [[Locations/Eternus]]' past, present, and future.
 - [[Groups/Eternus Victoria]]
+## Using This Wiki
+In-canon dates on pages will use the [[Events/Alexandrian Calendar]] unless otherwise specified.

@@ -8,4 +8,4 @@ Pontus Mentis was an elf from the [[Locations/Sara Dominion]]. He took over afte
 
 Pontus saw his visions by watching the clouds. 
 
-He was oracle from 8 CA - 72 CA (64 years). 
+He was oracle from 8 BA - 72 BA (64 years). 

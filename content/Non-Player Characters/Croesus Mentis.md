@@ -8,4 +8,4 @@ Croesus Mentis was an elf from the [[Locations/Sara Dominion]]. Croesus’s time
 
 Croesus saw his visions in the form of dreams. It is important to note that Pythia also foretold the future, though used painting to do so. Whether she had a prior connection to [[Groups/House Mentis]] is unknown.
 
-He was oracle from 182 CA - 212 CA (30 years). 
+He was oracle from 182 BA - 212 BA (30 years). 

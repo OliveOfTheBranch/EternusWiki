@@ -8,4 +8,4 @@ Belladonna Mentis was a half-Elf born in an unknown border town between the [[Lo
 
 Belladonna consumed poison to induce visions.
 
-She was oracle from 0 CA - 8 CA (8 years). 
+She was oracle from 0 BA - 8 BA (8 years). 

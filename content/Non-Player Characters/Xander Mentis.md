@@ -8,4 +8,4 @@ Xander Mentis was a human from the [[Locations/Sara Dominion]]. Nestor’s two s
 
 Xander had visions while under the night sky. 
 
-He was oracle from 811 GA - 0 CA (4 years).
+He was oracle from 811 GA - 0 BA (4 years).

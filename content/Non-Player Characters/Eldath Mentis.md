@@ -8,4 +8,4 @@ Eldath Mentis was an elf from the [[Locations/Sara Dominion]]. Eldath, and her o
 
 Eldath had strong flickers of the future come to her while orating to groups of people, her visions usually being about those people or whatever she was speaking on.
 
-She was oracle from 72 CA - 125 CA (53 years). 
+She was oracle from 72 BA - 125 BA (53 years). 

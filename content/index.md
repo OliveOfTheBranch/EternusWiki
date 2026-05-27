@@ -2,7 +2,6 @@
 {"publish":true,"title":"Welcome to Eternus","cssclasses":""}
 ---
 
-
 This website serves as the official wiki for all campaigns and stories set in the [[Locations/Eternus]] setting.
 ## Get Started
 ###### The World.
@@ -18,4 +17,4 @@ Learn about the places in [[Locations/Eternus]], including the continents of the
 Learn about influential figures on [[Locations/Eternus]]' past, present, and future.
 - [[Groups/Eternus Victoria]]
 ## Using This Wiki
-In-canon dates on pages will use the [[Events/Alexandrian Calendar]] unless otherwise specified.
+In-canon dates on pages will use the [[Events/Alexandrian Calendar]] unless otherwise specified. Reading the wiki should (hopefully) not spoil you for any plot in your current campaign. Instead, this serves as a guide for information that your character could reasonably discover with enough time and resources.

@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Eternus Wiki",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | Eternus Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

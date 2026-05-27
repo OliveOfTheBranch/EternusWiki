@@ -1,11 +1,10 @@
 ---
 {"publish":true,"aliases":"Vivi Xenevieve Mentis","cssclasses":""}
 ---
-
 ![[Resources/VIVIQUEEN.jpg|300]]
 *Art taken and slightly modified from Pinterest, and as such is not accurate to canon.*
 ###### (she/her) - Played by Zae
-Queen Xenevieve Sara (née [[Groups/House Mentis\|Mentis]]) is the current ruling queen consort of the [[Locations/Sara Dominion]]. She is a high elf, and is also known as Vivi, or the "[[Magic/Cardinal]] Queen".
+Queen Xenevieve Sara (née [[Groups/House Mentis\|Mentis]]) is the current ruling queen consort of the [[Locations/Sara Dominion]]. She is a high elf, and is also known as Vivi, or the "[[Cardinal]] Queen".
 
 Vivi has long blond ringlets. Her right eye is missing, a dark gaping hole. She can be somewhat intimidating to be in a room with, though is joyful when surrounded by those she trusts.
 

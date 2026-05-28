@@ -9,6 +9,7 @@ In-canon dates on pages will use the [[Events/Alexandrian Calendar]] unless othe
 ###### The World.
 Use these pages to begin learning about [[Locations/Eternus]]' gods and world as a whole, including some more abstract and broad concepts.
 - [[Groups/Current Gods]]
+- [[Events/Agon]]
 - [[Groups/The Twelve Who Came Before]]
 - [[Magic/Magic]]
 ###### The Land.

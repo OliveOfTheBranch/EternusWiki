@@ -11,6 +11,8 @@ Unseelie fey are a type, or court, of [[Creatures/Fey]] that were created by or 
 - [[Redcaps]]
 - [[Peatborn]]
 - [[Brigganocks]]
+- [[Hedgekin]]
+- [[Waxers]]
 - Autumn and Winter [[Eladrin]]
 
 After [[Non-Player Characters/Mab]]'s death in the [[Events/Agon#The Second Agon\|The Second Agon]], the Unseelie Court disbanded and their capital city, [[Ravenfall\|Ravenheart]], was cast into the [[Abyss]] by [[Non-Player Characters/Lolth]]. A few unseelie [[Archfey]] went on to join the United Court of [[Locations/Feywild]] being formed by [[Non-Player Characters/Titania]], thought most chose to find their own way.

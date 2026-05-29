@@ -16,6 +16,7 @@ Use these pages to begin learning about [[Locations/Eternus]]' gods and world as
 Learn about the places in [[Locations/Eternus]], including the continents of the Material Plane in which many stories are set.
 - [[Locations/Ethrys]]
 - [[Locations/Alfheim]]
+- [[Creatures/Planes of Existence]]
 ###### The People.
 Learn about influential figures on [[Locations/Eternus]]' past, present, and future.
 - [[Groups/Eternus Victoria]]

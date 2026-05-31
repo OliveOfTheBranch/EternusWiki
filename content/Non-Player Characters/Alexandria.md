@@ -8,6 +8,7 @@ The goddess of dreams and the Soul, nothing is remembered about Alexandria befor
 
 > [!quote]
 > "Alexandria sees what Yuphra cannot."
+> 
 > *- One of the Tenets of the Alexandrian Church*
 
 The country of [[Yuphral]] once revered Yuphra as its patron god, however, the growing unrest within the nation and dissatisfaction at the god's refusal to accept them as its ward meant that once Alexandria rose to power and offered herself to be the Archpriestess of the nation, the people accepted her with open arms. The abandonment of [[Groups/The Twelve Who Came Before]] in Yuphral incited anger in Yuphral's southern dominion of isles, which ended up fracturing off to become the [[Locations/Ashen Empire]].

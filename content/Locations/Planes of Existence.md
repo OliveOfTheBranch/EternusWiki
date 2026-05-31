@@ -2,14 +2,14 @@
 {"publish":true,"aliases":"Plane Planes","cssclasses":""}
 ---
 
-The Planes of Existence are pockets of material reality within [[Locations/Eternus]], where physical laws apply stronger than the spaces between. It was once thought that there were a fixed number of planes within reality, after the creation of [[Locations/Carceri]] by [[Groups/The Court of Pain]] it is now known that most planes were likely created by [[Groups/The Twelve Who Came Before]] soon after their descension.
+The Planes of Existence are pockets of material reality within [[Locations/Eternus]], where physical laws apply stronger than the spaces between. It was once thought that there were a fixed number of planes within reality, however after the creation of [[Locations/Carceri]] by [[Groups/The Court of Pain]] it is now known that most planes were likely created by [[Groups/The Twelve Who Came Before]] soon after their descension.
 
 The "prime material" plane of Eternus is known as Primordia, though the name "Eternus" itself can be used to refer to both reality as a whole and just the material plane.
 #### Inner Planes
 The Inner Planes exist closer to Eternus Primordia, usually due to factors relating to it. The known Inner Planes are:
 - Silvia ([[Locations/Feywild]])
 - Oblivia ([[Shadowfell]])
-- The [[Elemental Planes]] (predominantly the [[Plane of Air]], [[Plane of Water]], [[Plane of Earth]], [[Plane of Fire]])
+- The [[Elemental Planes]] (predominantly the [[Plane of Air]], [[Plane of Water]], [[Plane of Earth]], and the [[Plane of Fire]])
 
 The Elemental Planes are thought to be a gathering of strong [[Magic/Primordeus]] energy surrounding Eternus Primordia, due to it being the at centre of creation. However, as the divine light of [[Celestia]] shines upon Eternus Primordia, its reflection forms the [[Locations/Feywild]], while its shadow forms the [[Shadowfell]], hence them being Inner Planes.
 #### Outer Planes

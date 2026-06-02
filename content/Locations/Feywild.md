@@ -12,12 +12,12 @@ Every Fey domain has its own [[Archfey]] ruling over it. The capital domain of t
 - [[Locations/Prismeer]] - Zybilna/[[Non-Player Characters/Tasha]]
 - [[Basking]] - [[Oberon]]
 - [[Widowing]] - [[Ophelia]] 
-- [[Shrike]] - *Placeholder*, formerly [[Non-Player Characters/Britta of Shrike]]
+- [[Locations/Shrike]] - *Placeholder*, formerly [[Non-Player Characters/Britta of Shrike]]
 - [[Rin’s Rook]] - [[Rin]]
 - [[Everfall]] - [[Auster]]
 - [[The Revelry]] - [[Bacchus]]
 - [[The Creek]] - *Placeholder*
 - [[Marwin]] - *Placeholder*
 - [[Underhedge]] - *Placeholder*
-- [[Thrark]] - [[Via’Arka]] / Via’Pyra na Mord
+- [[Thrark]] - [[Via'Arka]] / Via'Pyra na Mord
 - [[The Litter and the Peat]] - Lord Cals

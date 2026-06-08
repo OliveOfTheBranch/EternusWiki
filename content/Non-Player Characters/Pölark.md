@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"P o l a r k","cssclasses":""}
+{"publish":true,"aliases":"Polark","cssclasses":""}
 ---
 
 

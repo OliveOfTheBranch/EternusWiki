@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"C l i o K l e o s","cssclasses":""}
+{"publish":true,"aliases":"Clio Kleos","cssclasses":""}
 ---
 
 

@@ -28,3 +28,6 @@ The attack was only meant to be a pressuring on Orion grounds, though a miscommu
 This situation is bad for House Taurus as the South splitting loses the North its trade with the Daymora Khaganate. As the North then has virtually no trading neighbours, it will begin to starve and revolt. With no heir to the throne and pressure already high, the situation would be a threat to House Sara and the Dominion as a whole. Taurus recognises the fact the a whole Sara Dominion is best for everyone, not just the South, and therefore in their best interests.
 
 Gabriel Taurus, the Matador.
+
+
+EITR IS IN DREYGAARD BECAUSE HE IS INVESTIGATING HIS FATHER.

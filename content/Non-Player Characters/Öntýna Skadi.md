@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"O n t y n a T y n a O n t y n a S k a d i","cssclasses":""}
+{"publish":true,"aliases":"Ontyna Tyna Ontyna Skadi","cssclasses":""}
 ---
 
 

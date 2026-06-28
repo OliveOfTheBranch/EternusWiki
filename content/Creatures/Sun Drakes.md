@@ -4,7 +4,7 @@
 
 
 ###### Dragon
-Sun drakes are titanic draconic beings created by [[Non-Player Characters/Lathander]] to protect the people of the [[Locations/Daymora Khaganate]] from elementals and [[Magic/Primordeus]] Titans. After the many battles between drakes and titans, most of the sun drakes have fallen, with [[Non-Player Characters/Sol]] being the only one still alive. 
+Sun drakes are titanic, serpentine draconic beings created by [[Non-Player Characters/Lathander]] to protect the people of the [[Locations/Daymora Khaganate]] from elementals and [[Magic/Primordeus]] Titans. After the many battles between drakes and titans, most of the sun drakes have fallen, with [[Non-Player Characters/Sol]] being the only one still alive. 
 
 The first and most powerful sun drake, [[Non-Player Characters/Daymora]], was the first khagan of southern [[Locations/Ethrys]], uniting the human khans under his name. When he fell in battle, his second-in-command [[Non-Player Characters/Sol]] took his place, and has stayed khagan ever since.
 
@@ -12,7 +12,7 @@ Sun drakes have teeth made of purest glass, which allows them to reflect the lig
 ###### Notable Sun Drakes
 - [[Non-Player Characters/Daymora]]
 - [[Non-Player Characters/Sol]]
-- [[Aledar]]
-- [[Quetza]]
-- [[Siris]]
+- [[Non-Player Characters/Aledar]]
+- [[Non-Player Characters/Quetza]]
+- [[Non-Player Characters/Siris]]
 - 

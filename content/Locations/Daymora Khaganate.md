@@ -19,9 +19,9 @@ Their patron sun drake is [[Non-Player Characters/Sol]] Khagan, who since becomi
 #### Southern Khanate
 Their patron sun drake was [[Siris]] Khan.
 #### Eastern Khanate
-Their patron sun drake was [[Quetza]] Khan.
-#### Western Khanate
 Their patron sun drake was [[Aledar]] Khan.
+#### Western Khanate
+Their patron sun drake was [[Quetza]] Khan.
 #### The Palace of Glass
 The Palace of Glass lies in the very centre of the Daymora Khaganate. It is the location of where the first sun drake, Daymora, was created. The blinding light he gave off turned the desert around him to glass, which was sculpted into a palace that became his resting chamber. After his death, [[Non-Player Characters/Sol]] moved into the palace and sleeps there, only waking every hundred years. The palace is of great religious significance to the khaganate, and many who worship Lathander or the drakes themselves will often make the deadly pilgrimage over the dunes to reach it. 
 The central desert of the khaganate is rife with [[Sandwurms]], making going there incredibly treacherous.

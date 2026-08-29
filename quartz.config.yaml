@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Eternus Wiki
+  pageTitleSuffix: " | Eternus Wiki"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -41,6 +41,11 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: "anuppuccin"
+      mode: "both"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -110,12 +115,6 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: its-theme
-      variation: ttrpg-dnd
-      mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"

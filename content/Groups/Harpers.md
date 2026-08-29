@@ -5,9 +5,9 @@ draft: "true"
 ---
 
 **Faction**
-The Harpers are a large faction from [[Locations/Alfheim]].
+The Harpers are a large faction from [[Alfheim]].
 
 #### Notable Members
 - [[Mirt]], leader of the Harpers' [[Emperia]] division.
 - [[Renaer Neverember]]
-- [[Player Characters/Rae]]
+- [[Rae]]

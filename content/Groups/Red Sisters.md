@@ -2,7 +2,7 @@
 publish: true
 ---
 ###### Religious Organisation
-The Red Sisters are a group of [[Dreygaard|Dregaardian]] nuns who worship, serve, and sometimes represent [[the Sanguine Lord]]. As the Sanguine Lord is a dead god, the Red Sisters are tasked with the role of interpreting his will and sharing it with the people of Dreygaard. 
+The Red Sisters are a group of [[Dreygaard|Dregaardian]] nuns who worship, serve, and sometimes represent [[The Sanguine Lord]]. As the Sanguine Lord is a dead god, the Red Sisters are tasked with the role of interpreting his will and sharing it with the people of Dreygaard. 
 
 They often serve as medics, midwives, and church staff, though the nunnery offers a wide range of options for young Sisters to train themselves in. The girls serving in these nunneries are often criminals, offered a second chance by the church. They are legally owned by the Cardinal (currently [[Gisela of Rott]]), and spend the remainder of their lives serving the Red Sisters, though varying levels of freedom may be achieved. 
 

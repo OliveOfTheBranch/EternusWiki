@@ -3,7 +3,7 @@
 ---
 ![[DWARF.png|300]]
 
-Dwarves are one of the older races of [[Locations/Eternus]], and were created by [[Non-Player Characters/Moradin]] long before humans. 
+Dwarves are one of the older races of [[Eternus]], and were created by [[Moradin]] long before humans. 
 
 In modern times, many of the dwarves of Eternus Primordia live in the dwarvern cities of [[Rymrdann]] and [[Gyldheim]]. 
 

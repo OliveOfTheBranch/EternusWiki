@@ -2,4 +2,4 @@
 {"publish":true,"cssclasses":""}
 ---
 
-Infernal is the language of [[Creatures/Devils]].
+Infernal is the language of [[Devils]].

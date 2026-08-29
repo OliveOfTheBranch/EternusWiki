@@ -13,7 +13,7 @@ The Inner Planes exist closer to Eternus Primordia, usually due to factors relat
 - Oblivia ([[Shadowfell]])
 - The [[Elemental Planes]] (predominantly the [[Plane of Air]], [[Plane of Water]], [[Plane of Earth]], and the [[Plane of Fire]])
 
-The Elemental Planes are thought to be a gathering of strong [[Primordeus]] energy surrounding Eternus Primordia, due to it being the at centre of creation. However, as the divine light of [[Celestia]] shines upon Eternus Primordia, its reflection forms the [[Locations/Feywild]], while its shadow forms the [[Shadowfell]], hence them being Inner Planes.
+The Elemental Planes are thought to be a gathering of strong [[Primordeus]] energy surrounding Eternus Primordia, due to it being the at centre of creation. However, as the divine light of [[Celestia]] shines upon Eternus Primordia, its reflection forms the [[Feywild]], while its shadow forms the [[Shadowfell]], hence them being Inner Planes.
 #### Outer Planes
 The Outer Planes are usually the creations of gods, being their domains representing the pure divine influence of their [[Animus]]. The known Outer Planes are:
 - [[Celestia]] (the Sun)

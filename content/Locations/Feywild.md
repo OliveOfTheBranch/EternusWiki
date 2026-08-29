@@ -3,12 +3,12 @@
 ---
 
 ###### Plane
-The Feywild, known in [[Sylvan]] as Silvia, is a plane of existence in Eternus, ruled by the Fey Queen [[Non-Player Characters/Titania]]. It is the home of the [[Fey]]. The Feywild itself does not have the same physical connections between places as in the Material Plane, and is instead made up of a large web of connections, each point on which is known as a domain.
+The Feywild, known in [[Sylvan]] as Silvia, is a plane of existence in Eternus, ruled by the Fey Queen [[Titania]]. It is the home of the [[Fey]]. The Feywild itself does not have the same physical connections between places as in the Material Plane, and is instead made up of a large web of connections, each point on which is known as a domain.
 Every Fey domain has its own [[Archfey]] ruling over it. The capital domain of the Feywild is [[Archheart]], the Archfey for which is Titania herself. The list of Feywild domains and their respective Archfey are:
-- [[Archheart]] - [[Non-Player Characters/Titania]]
-- [[Ravenfall]] (formerly Ravenheart) - [[Non-Player Characters/Mab]]
+- [[Archheart]] - [[Titania]]
+- [[Ravenfall]] (formerly Ravenheart) - [[Mab]]
 - [[The Frostfell]] - [[Auril]]
-- [[Prismeer]] - Zybilna/[[Non-Player Characters/Tasha]]
+- [[Prismeer]] - Zybilna/[[Tasha]]
 - [[Basking]] - [[Oberon]]
 - [[Widowing]] - [[Ophelia]] 
 - [[Shrike]] - *Placeholder*, formerly [[Britta of Shrike]]

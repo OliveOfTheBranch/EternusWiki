@@ -2,7 +2,7 @@
 {"publish":true,"cssclasses":""}
 ---
 
-Sylvan is the language of the [[Locations/Feywild]]. It is spoken mostly by [[Fey]], and is the predecessor of [[Elvish]].
+Sylvan is the language of the [[Feywild]]. It is spoken mostly by [[Fey]], and is the predecessor of [[Elvish]].
 ###### Notable Sylvan Words
 - Doma - House
 - Papillon - Butterfly

@@ -5,16 +5,16 @@ cssclasses: ""
 > [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
 > This article is about the country in south Ethrys. For its namesake and founder, see [[Daymora]].
 ###### Country
-The Daymora Khaganate is an arid country on the southernmost point of [[Locations/Ethrys]]. It is comprised of four khanates, with their capital cities being:
+The Daymora Khaganate is an arid country on the southernmost point of [[Ethrys]]. It is comprised of four khanates, with their capital cities being:
 - [[Northwatch]], Northern Khanate
 - [[Karkinos]], Southern Khanate
-- [[Locations/Alkhan and Edaros]], Eastern Khanate
+- [[Alkhan and Edaros]], Eastern Khanate
 - [[Tlacoatlan]], Western Khanate
 
 In ancient times, the many khans of southern Ethrys were at war, and would battle over areas of land. However, when faced with [[Elemental Titans]] summoned by the powerful southern leylines that were ravaging their land, the khans banded together to fight them off. In return for this show of peace and collaboration, the Morninglord [[Lathander]] created twelve [[Sun Drakes]], gargantuan serpents with the power to breath light, to be their guardians from the titans. The eldest and greatest of the drakes was [[Daymora]], whom the khans made their grand khagan, beginning the Daymora Khaganate.
 ### Regions
 #### Northern Khanate
-A savanna with a miles-long man-made sandstone wall providing a physical border to Bas'Taurus of the [[Sara Dominion]]. The wall was built thousands of years ago, assumedly to keep [[Chimaera (Creatures)|Chimaera]] out of the area, though who exactly it was built by remains unknown.
+A savanna with a miles-long man-made sandstone wall providing a physical border to Bas'Taurus of the [[Sara Dominion]]. The wall was built thousands of years ago, assumedly to keep [[Chimaera (Creatures|Chimaera]].md) out of the area, though who exactly it was built by remains unknown.
 Their patron sun drake is [[Sol]] Khagan, who since becoming khagan has moved to the Palace of Glass.
 #### Southern Khanate
 Their patron sun drake was [[Siris]] Khan.

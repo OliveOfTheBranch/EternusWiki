@@ -1,0 +1,21 @@
+---
+{"publish":true,"cssclasses":""}
+---
+
+###### Pantheon
+The current gods of Eternus include both the remaining gods of [[Groups/The Twelve Who Came Before]] and the new usurper gods. These include:
+
+- **[[Non-Player Characters/Lathander]], the Morninglord**
+- **[[Non-Player Characters/Pölark]], the Crushing Deep**
+- **[[Non-Player Characters/Titania]], the Fey Queen**
+- [[Non-Player Characters/Asmodeus]], Lord of the Hells
+- [[Non-Player Characters/Clio Sara\|Kleos]], Goddess of the Hunt
+- [[Non-Player Characters/Orcus]], God of Undeath
+- [[Non-Player Characters/Alexandria]], Goddess of the Moon
+- [[Non-Player Characters/Gruumsh]], the Ruiner
+- [[Non-Player Characters/Lolth]], the Spider Queen
+- [[Non-Player Characters/Sigurd]], God of Heroes
+- [[Non-Player Characters/Primus]], God of Invention
+- [[Groups/The Court of Pain]]
+
+This list is separated into three. The first three gods are original primordials, part of [[Groups/The Twelve Who Came Before]]. The next three gods ascended to their position after the First [[Events/Agon]], which left only the Eight Who Remained. Not included in this list is [[Fafnir]], another god who ascended by killing [[Non-Player Characters/Urvox]], as he himself was killed in the Second [[Events/Agon]] by [[Non-Player Characters/Sigurd]], thus making him the only usurper god to have ascended but not currently be a god. The rest are those who ascended during the Second [[Events/Agon]], when the most gods were killed.

@@ -1,0 +1,9 @@
+---
+publish: true
+---
+###### (she/they) - NPC
+Xaeres is one of the five sovereigns of [[the Court of Pain]]. 
+
+She is known as the Warlord, and advises the Court and their allies during hostile or violent situations. She has a close relationship with her apprentice, [[Carter of Marwin]], and helped to hide his transgressions from the rest of the Court. 
+
+Xaeres is a Fallen [[Aasimar]], with pale grey skin and long black hair. [[The Wanderer]]'s animus has turned her eyes gold, and their original colour is unknown. 

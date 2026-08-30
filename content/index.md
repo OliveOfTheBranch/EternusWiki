@@ -12,19 +12,23 @@ Use these pages to begin learning about [[Eternus]]' gods and world as a whole, 
 - [[The Twelve Who Came Before]]
 - [[Magic]]
 ###### The Land.
+*(Zoom to see more nodes!)*
+
 ```base
 views:
- - type: leaflet-map
-   name: Map
-   mapName: eastEthrys
-   image: Resources/MAP_EASTETHRYS.jpg
-   height: 400
-   minZoom: -2
-   maxZoom: 2
-   defaultZoom: -2
-   zoomDelta: 0.25
-   scale: "0.2"
-   unit: km
+  - type: leaflet-map
+    name: Map
+    mapName: eastEthrys
+    image: Resources/MAP_EASTETHRYS.jpg
+    height: 400
+    minZoom: -2
+    maxZoom: 2
+    defaultZoom: -2
+    zoomDelta: 0.25
+    scale: "0.2"
+    unit: km
+    center: 1955, 1416
+
 ```
 Learn about the places in [[Eternus]], including the continents of the Material Plane in which many stories are set.
 - [[Ethrys]]

@@ -10,7 +10,7 @@ marker:
 ---
 
 ###### City
-Arkas was a large city in the central [[Sara Dominion]] before its destruction by [[The Triad]] shortly after the [[Agon#The Second Agon\|The Second Agon]]. The city was founded upon the site where the [[Non-Player Characters/Aureon Mentis\|Oracle of Sara]] had built his temple, known as the [[Panopticon]]. The area around the city holds a natural enchantment which staves off roaming [[Creatures/Chimaera (Creatures|Chimaera]]%5C) by making it difficult to find without guidance.
+Arkas was a large city in the central [[Sara Dominion]] before its destruction by [[The Triad]] shortly after the [[Agon#The Second Agon\|The Second Agon]]. The city was founded upon the site where the [[Non-Player Characters/Aureon Mentis\|Oracle of Sara]] had built his temple, known as the [[Panopticon]]. The area around the city holds a natural enchantment which staves off roaming [[Creatures/Chimaera (Creatures)|Chimaera]]) by making it difficult to find without guidance.
 
 After the death of [[Typhon]], people flocked to the Arkassian region, building up a city around the Panopticon while the Oracle was still in [[Chimaera]]. Not long after, the great serpent [[Eitr Sara|Python]] surrounded the city, encircling it with his body and keeping those within hostage. The Oracle then returned home, and, spurred by [[Britta of Shrike]], was able to defeat the serpent and retake Arkas for the Sara Dominion and [[House Mentis]]. Python then fled to the coast, creating the site of [[Serpent's Folly]] in his wake.
 

@@ -6,7 +6,7 @@ cssclasses: ""
 ###### Country
 The Sara Dominion is a country on the east coast of [[Ethrys]]. The country encompasses the area of what was once known as the Hunting Grounds, before its namesake [[Clio Sara]] slayed [[Typhon]] and united the tribes to form the state. The twelve [[Hunters of Sara]] each started a bloodline that became one of the modern [[Saran Houses]]. The country is a monarchy, with the ruling house being the line of Clio Sara herself, [[House Sara]]. The current king is [[Theodore Sara]]. 
 
-The flag of the sara dominion is gold and white with the symbol of a [[Creatures/Chimaera (Creatures|Chimaera]]%5C) wearing a crown.
+The flag of the sara dominion is gold and white with the symbol of a [[Creatures/Chimaera (Creatures)|Chimaera]] wearing a crown.
 ### Regions
 #### [[Chimaera]]
 The capital city of the Sara Dominion. This region also covers the northern area, up to the border with [[Dreygaard]].

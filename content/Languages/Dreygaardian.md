@@ -6,4 +6,4 @@ publish: true
 
 Dreygaardian is the language spoken by people from [[Dreygaard]]. 
 
-It is derived from [[Old Saran]], the language spoken by [[Typhon]] and his [[Chimaera (Creatures|Chimaera]].md) generals, and has many similarities with modern [[Saran]]. The Dreygaardian language is considered to be the youngest language in [[Ethrys]], having only become distinct from Saran around the early [[Golden Age]].
+It is derived from [[Old Saran]], the language spoken by [[Typhon]] and his [[Chimaera (Creatures)|Chimaera]] generals, and has many similarities with modern [[Saran]]. The Dreygaardian language is considered to be the youngest language in [[Ethrys]], having only become distinct from Saran around the early [[Golden Age]].

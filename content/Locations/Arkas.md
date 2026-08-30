@@ -1,5 +1,12 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - coordinates: 969, 1194
+    mapName: eastEthrys
+    colour: "#7623a5"
+    icon: lucide-eye
+    minZoom: -1.75
 ---
 
 ###### City

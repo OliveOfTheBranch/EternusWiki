@@ -1,5 +1,12 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - colour: "#039c4b"
+    coordinates: 1497, 1216
+    icon: game-icons:two-coins
+    mapName: eastEthrys
+    minZoom: -1.75
 ---
 
 ###### City

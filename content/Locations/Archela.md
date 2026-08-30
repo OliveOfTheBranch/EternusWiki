@@ -1,5 +1,11 @@
 ---
 publish: true
+marker:
+  - coordinates: 357, 1752
+    mapName: eastEthrys
+    icon: game-icons:scorpion
+    colour: "#f44546"
+    minZoom: -1.75
 ---
 ###### City
 Archela is a city in the Bas'Taurus region of the [[Sara Dominion]], and the oldest city in the country. It was founded by the scorpion [[Chimaera (Creatures|Chimaera]].md) general [[Antares]], who used its venom to poison the humans who lived there and mind-control them. Since [[Saint Orion]] slayed Antares and liberated the people of Archela, his descendents of [[House Orion]] have ruled the city as its guardian.

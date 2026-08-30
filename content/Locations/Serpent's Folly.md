@@ -1,5 +1,12 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - colour: "#66d313"
+    coordinates: 747, 1810
+    icon: game-icons:sand-snake
+    mapName: eastEthrys
+    minZoom: -1.75
 ---
 
 ###### City

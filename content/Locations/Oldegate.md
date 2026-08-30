@@ -1,5 +1,12 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - coordinates: 1501, 383
+    mapName: eastEthrys
+    colour: "#039c4b"
+    icon: lucide-tree-pine
+    minZoom: -1.75
 ---
 
 ###### City

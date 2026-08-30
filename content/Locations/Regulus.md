@@ -1,5 +1,11 @@
 ---
 publish: true
+marker:
+  - coordinates: 413, 1216
+    mapName: eastEthrys
+    icon: game-icons:lion
+    colour: "#f16623"
+    minZoom: -1.75
 ---
 > [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
 > This article is about the city in the southern Sara Dominion. For the chimaera general, see [[Creature)](Regulus (Creature|Regulus (Creature)]]).

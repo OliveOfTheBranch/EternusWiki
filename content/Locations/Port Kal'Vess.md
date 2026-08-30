@@ -1,5 +1,12 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - coordinates: 1345, 1680
+    mapName: eastEthrys
+    icon: lucide-sailboat
+    colour: "#21409a"
+    minZoom: -1.75
 ---
 
 ###### City

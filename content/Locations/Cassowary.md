@@ -1,5 +1,11 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+marker:
+  - coordinates: 592, 747
+    mapName: eastEthrys
+    icon: game-icons:ostrich
+    minZoom: -1.75
 ---
 
 ###### City

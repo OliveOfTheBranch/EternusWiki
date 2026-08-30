@@ -2,6 +2,11 @@
 publish: true
 aliases: Dregaardian
 cssclasses: ""
+marker:
+  - coordinates: 2597, 1996
+    mapName: eastEthrys
+    colour: "#f44546"
+    icon: lucide-flower
 ---
 ![[DREYGAARDFLAG.png|180]]
 ###### Country

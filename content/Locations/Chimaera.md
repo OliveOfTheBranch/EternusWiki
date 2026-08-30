@@ -1,5 +1,12 @@
 ---
-{"publish":true,"title":"Chimaera","cssclasses":""}
+publish: true
+title: Chimaera
+cssclasses: ""
+marker:
+  - coordinates: 1955, 1416
+    mapName: eastEthrys
+    icon: lucide-crown
+    colour: "#e2c505"
 ---
 
 > [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Haemmangel
+---
 ###### Angels
 [[Dreygaard]]ian religion has four angels, known as Haemmangels, each one a hand of [[the Sanguine Lord]]. These angels exist as manifestations of the divine within blood, and as such require mortal hosts to coexist with. In ancient times, these mortals were known as the [[Dreygaardian Saints]]. These angels were known as:
 - [[Sanguis]], the Maiden

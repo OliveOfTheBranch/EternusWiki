@@ -1,5 +1,8 @@
 ---
-{"publish":true,"cssclasses":""}
+publish: true
+cssclasses: ""
+aliases:
+  - Blood Lily
 ---
 
 ###### Plant

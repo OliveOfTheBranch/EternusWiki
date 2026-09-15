@@ -9,5 +9,4 @@ marker:
 ---
 
 ###### City
-
 Emperia, the Crown of Alfheim, is a city-state in [[Alfheim]] and part of the [[Impious Alliance]].

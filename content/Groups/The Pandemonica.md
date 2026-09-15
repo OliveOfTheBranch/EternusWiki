@@ -1,0 +1,4 @@
+###### Faction
+The Pandemonica is a mining guild founded in [[Dreygaard]]. They work alongside the Dreygaardian government and the [[Grand Conclave of Ordinals]] to mine [[Dimeritium]] in [[Pandemonium]], transporting it through [[Sugadinti]]. As Dreygaard expanded to [[Alfheim]], the Pandemonica spread across the sea to set up bases in [[Mædway]] and [[Emperia]]. For this reason, they are now one of the most prevalent mining guilds in the world, having full control over not only the flow of dimeritium, but most rare or magical metals.
+
+They own one of the only [[Adamantine]] foundries in [[Eternus]], powered by an [[Elemental Titans|Elemental Titan]] of fire. It is located north-east of Mædway.

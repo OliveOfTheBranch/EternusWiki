@@ -1,9 +1,0 @@
-views:
-  - type: leaflet-map
-    name: Map
-    image: Resources/MAP_EASTETHRYS.jpg
-    mapName: eastEthrys
-    height: 400
-    defaultZoom: -2
-    minZoom: -2
-    center: ""

@@ -30,6 +30,7 @@ views:
     center: 1955, 1416
 
 ```
+
 Learn about the places in [[Eternus]], including the continents of the Material Plane in which many stories are set.
 - [[Ethrys]]
 - [[Alfheim]]

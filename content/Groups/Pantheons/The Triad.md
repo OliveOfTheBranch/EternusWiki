@@ -1,7 +1,7 @@
 ---
 {"publish":true,"cssclasses":""}
 ---
-
+![[TRIAD.jpg|300]]
 ###### Pantheon
 The Triad is a group of three gods consisting of [[Lathander]], [[Pölark]], and [[Titania]]. They were formed directly after the [[Agon#The Second Agon\|Second Agon]] in response to the other five remaining primordial gods being killed. The Triad believes that all [[Current Gods]] except themselves are usurpers and murderers, and due to them being originally mortal do not deserve to have the title of god, though this belief does not necessarily extend to their followers.
 

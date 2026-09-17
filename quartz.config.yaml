@@ -246,7 +246,7 @@ plugins:
       priority: 25
       display: mobile-only
   - source: "@quartz-community/bases-page"
-    enabled: false
+    enabled: true
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"

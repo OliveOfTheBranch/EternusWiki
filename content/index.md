@@ -15,6 +15,7 @@ Use these pages to begin learning about [[Eternus]]' gods and world as a whole, 
 *(Zoom to see more nodes!)*
 
 ```base
+filters: file.hasProperty("marker")
 views:
   - type: leaflet-map
     name: Map

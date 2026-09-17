@@ -3,7 +3,7 @@
 ---
 
 
-> [!warning]- (Stub) - "Do not bite the hand that feeds."
+> [!warning]- (Stub) - "Do I know how the [[Nectar]] works? No. Am I still going to drink it? Yeah." - [[Xylemia of Gaard]]
 > This article is a stub. It requires more information on why Asmodeus killed the Sanguine Lord and how it related to the Blood War.
 ###### (he/it) - NPC
 The primordial god of blood, the Sanguine Lord is the patron god of [[Dreygaard]]. He was one of [[The Twelve Who Came Before]] and the [[Morteus Gods]], but was killed by [[Asmodeus]] during the First [[Agon]].

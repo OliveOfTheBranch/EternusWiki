@@ -2,7 +2,7 @@
 {"publish":true,"aliases":"Aureon The Oracle of Sara Oracle of Sara","cssclasses":""}
 ---
 
-> [!warning]- (Stub) - "Do not bite the hand that feeds."
+> [!warning]- (Stub) - "Do I know how the [[Nectar]] works? No. Am I still going to drink it? Yeah." - [[Xylemia of Gaard]]
 > This article is a stub. Aureon did a lot of shit, okay? This is gonna take a minute.
 
 ![[AUREONMENTIS.png|300]]

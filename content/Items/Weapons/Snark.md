@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the sword belonging to Vuris Sanavaloth. For the cardinal entities, see [[Snarks]].
 
 ###### Cardinal Armament

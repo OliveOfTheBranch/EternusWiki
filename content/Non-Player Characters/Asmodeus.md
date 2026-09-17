@@ -3,7 +3,7 @@
 ---
 
 
-> [!warning]- (Stub) - "Do not bite the hand that feeds."
+> [!warning]- (Stub) - "Do I know how the [[Nectar]] works? No. Am I still going to drink it? Yeah." - [[Xylemia of Gaard]]
 > This article is a stub. It requires more information on the Blood War and modern worship.
 
 ![[ASMODEUSPORTRAIT.png|300]]

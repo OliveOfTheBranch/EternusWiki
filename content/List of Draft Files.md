@@ -4,5 +4,5 @@ draft: "true"
 ---
 ```dataview
 LIST 
-WHERE draft = "true"
+WHERE draft = "true" OR publish = false
 ```

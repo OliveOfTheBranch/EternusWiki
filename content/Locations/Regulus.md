@@ -7,7 +7,7 @@ marker:
     colour: "#f16623"
     minZoom: -1.75
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the city in the southern Sara Dominion. For the chimaera general, see [[Creature)](Regulus (Creature|Regulus (Creature)]]).
 
 ###### City

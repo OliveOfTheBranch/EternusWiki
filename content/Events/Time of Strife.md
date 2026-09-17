@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!warning]- (Stub) - "Do not bite the hand that feeds."
+> [!warning]- (Stub) - "Do I know how the [[Nectar]] works? No. Am I still going to drink it? Yeah." - [[Xylemia of Gaard]]
 > This article is a stub. It requires more information on how the Time of Strife affected Alfheim.
 
 ###### Era

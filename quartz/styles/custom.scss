@@ -5,3 +5,7 @@
   height: 400px !important; /* Change 500px to your desired height (e.g., 60vh, 400px) */
   width: 100%;
 }
+
+.leaflet-control-button:not(.selected) {
+  display: none;
+}

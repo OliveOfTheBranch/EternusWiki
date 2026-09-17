@@ -2,7 +2,7 @@
 publish: true
 draft: "true"
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the glaive belonging to [[Xenevieve Mentis-Sara]]. For the person this glaive is named after, see [[Iris Mentis]].
 ###### Glaive
 Iris is a glaive created by [[Iris Mentis]] and currently in the possession of [[Xenevieve Mentis-Sara]]. Its shaft is made out of Yuphrali redwood and the blade at its tip is a sliver of [[Sun Drakes|Sun Drake]] tooth, belonging to [[Siris]] Khan.

@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the amulet belonging to House Mentis. For the location this amulet is connected to, see [[Shrike's Tine]].
 ###### Artefact
 The Tine Amulet is an artifact of [[House Mentis]]. 

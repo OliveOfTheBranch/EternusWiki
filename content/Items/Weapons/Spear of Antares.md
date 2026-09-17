@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the spear belonging to House Orion. For the chimaera general, see [[Antares]].
 ###### Artefact
 The Spear of Antares is the artefact of [[House Orion]]. 

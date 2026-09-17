@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the language spoken in Dreygaard. For the country, see [[Dreygaard]].
 
 Dreygaardian is the language spoken by people from [[Dreygaard]]. 

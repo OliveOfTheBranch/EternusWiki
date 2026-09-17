@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the fang belonging to House Cadmus. For the elder dragon, see [[Thebes]].
 ###### Artefact
 The Theban Fang is the artifact of [[House Cadmus]]. 

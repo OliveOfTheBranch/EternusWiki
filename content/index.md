@@ -21,7 +21,7 @@ views:
     name: Map
     mapName: eastEthrys
     image: Resources/MAP_EASTETHRYS.jpg
-    height: 200
+    height: 400
     minZoom: -2
     maxZoom: 2
     defaultZoom: -2

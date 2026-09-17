@@ -7,7 +7,7 @@ aliases:
 cssclasses: ""
 ---
 
-> [!warning]- (Stub) - "Do not bite the hand that feeds."
+> [!warning]- (Stub) - "Do I know how the [[Nectar]] works? No. Am I still going to drink it? Yeah." - [[Xylemia of Gaard]]
 > This article is a stub. It requires more information on the Second Agon.
 
 Godhood in Eternus is not forever. In the history of time, there have been two reality-shifting events, known as Agons, where gods became mortal and killable. If a god is killed in this state, its powers are transferred on to its murderer. Now, only three of the original gods remain, being [[Lathander]], [[Pölark]], and [[Titania]]. [[Current Gods]] are entities which hold an [[Animus]], the soul of a god from which they gain their divine power. There are twelve anima in existence, each respective of one of [[The Twelve Who Came Before]], or the original gods.

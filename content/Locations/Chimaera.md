@@ -9,7 +9,7 @@ marker:
     colour: "#e2c505"
 ---
 
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the city in the Sara Dominion. For the monsters created by Typhon, see [[Chimaera (Creatures)]].
 ###### City
 Chimaera is the capital city of the [[Sara Dominion]], and the site where the god [[Typhon]] was slain by [[Clio Sara]].

@@ -2,7 +2,7 @@
 publish: true
 cssclasses: ""
 ---
-> [!info]- (Disambiguation) - "To tell ols from humans, one must first decide what being human really means."
+> [!info]- (Disambiguation) - "[[Ols]], elves, humans, we're really quite alike. Hard to tell the difference, to be honest." - [[Aryas]]
 > This article is about the country in south Ethrys. For its namesake and founder, see [[Daymora]].
 ###### Country
 The Daymora Khaganate is an arid country on the southernmost point of [[Ethrys]]. It is comprised of four khanates, with their capital cities being:

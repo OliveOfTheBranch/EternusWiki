@@ -11,3 +11,5 @@ Aureon Mentis is the Oracle of Sara and the sovereign god of knowledge in [[The 
 
 Aureon has long blond hair that is often braided and tied up into a bun. His arms are covered in tattoos, many of which are magical [[Portae]]. He wears long robes and is often depicted with a tome and quill.
 
+He was the founder of [[House Mentis]], but his last name was invented for him by [[Britta of Shrike]].
+

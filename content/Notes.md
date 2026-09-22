@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 draft: "true"
 ---
 Pre-Coronation Scenes:
@@ -31,3 +31,34 @@ Gabriel Taurus, the Matador.
 
 
 EITR IS IN DREYGAARD BECAUSE HE IS INVESTIGATING HIS FATHER.
+
+
+"Do you want to know what Orion didn't keep in the Bible? How, when Clio asked me to kill a god, I told her NO. I never wanted any part of this." - Aureon
+Talking about how what Mentis' see is unavoidable; it will always come to pass.
+Talking about starting the Mentis line, starting a fire (Sara reference).
+
+Graz'zt charms Eitr and Tyr to turn into their true forms and fight Xaeres (who has Lliira's help?).
+
+Asmodeus turns into his true form to fight Lathander.
+
+Ol Aryas fights Silva on Haemon's back.
+
+Corellon steals the Ark from Titania?
+
+WANDERER CAN TELEPORT THROUGH THE SKY YOU NUMPTY.
+
+
+Magnus comes to Sara instead of ambassador (they thought an ambassador was being sent to invite them to Sudris). Magnus is threatening to kill the Skadis if Ontyna doesn't leak information to him. Vivi might find out about this while he comes down. He will use it as leverage to gain ground against the Sarans. He is genuinely deeply respectful, but cares much more for his country than he does for the Cardinal Queen.
+
+ARTUS HAS TO DIE (HE RUNS AWAY WITH THE RING OF WINTER).
+
+
+PANOPTICON:
+The Panopticon is made out of a knot of leylines that converged in Arkas. The physical material of the Panopticon is like a fractalline lattice of primordeus magic.
+
+
+BLOOD WAR:
+Lathander and Polark hated each other due to Polark's use of cardinal to create demons. Using their large divine armies, they waged war against each other for millennia. This was seen by the gods as a mere squabble, but the effects were felt deeply by mortals. 
+Baator "Where The Rivers Meet" was the point between Celestia and the Abyss where the angels and demons fought. Their blood soaked the land, filling it with energy of divine creation. The Sanguine Lord looked over Baator, and kept the gate between the planes open such that the Blood War could continue.
+During the Agon, Asmodeus sought to close the gate to stop the Blood War, and killed the Sanguine Lord to do so.
+When the gate was closed by Asmodeus, the planar connections ("rivers") no longer flowed uninterrupted through the plane, and thus it became stagnant and unholy.

@@ -1,5 +1,13 @@
 ---
-{"publish":true,"aliases":"Ondur","cssclasses":""}
+publish: true
+aliases: Ondur
+cssclasses: ""
+marker:
+  - coordinates: 2349, 949
+    mapName: eastEthrys
+    colour: "#04adff"
+    icon: lucide-snowflake
+    minZoom: -1.75
 ---
 
 ###### City

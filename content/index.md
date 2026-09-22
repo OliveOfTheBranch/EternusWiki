@@ -12,10 +12,9 @@ Use these pages to begin learning about [[Eternus]]' gods and world as a whole, 
 - [[The Twelve Who Came Before]]
 - [[Magic]]
 ###### The Land.
-*(Zoom to see more nodes!)*
+*(Zoom to see more nodes! Default zoom only shows capital cities.)*
 
 ```base
-filters: file.hasProperty("marker")
 views:
   - type: leaflet-map
     name: Map

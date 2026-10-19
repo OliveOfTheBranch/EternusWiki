@@ -7,7 +7,9 @@ There are a number of religious texts in [[Eternus]] for many different gods, bo
 - The [[Predator's Bible]] ([[Clio Sara|Kleos]] and [[Typhon]])
 - [[Notes on Oblivia]] ([[Pölark]])
 - The [[Dawn Scriptures]] ([[Lathander]])
-- The [[Haemma Quelle]] ([[The Sanguine Lord]] and [[Strzyga of Drey]])
+- From the [[Haemma Quelle]] to the Haemloch ([[The Sanguine Lord]] and [[Strzyga of Drey]])
+	- [[Dreygaardian]]: "Von der Haemma Quelle bis zum Haemloch"
+	- [[Saran]]: "The Red Bible"
 - The [[Grim Poems]] ([[Octavian]])
 - The [[Enlightened Texts]] ([[Alexandria]])
 - The [[Books of Ruination]] ([[Gruumsh]])

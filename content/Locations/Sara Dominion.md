@@ -20,3 +20,6 @@ The eastern coastal region of the Sara Dominion. [[Port Kal'Vess]] is its major 
 The jungle region in the south-western edge of the Sara Dominion. Some of this region also overlaps with the dominion of the [[Daymora Khaganate]], so there are often disputes over which country the area truly belongs to. The city of [[Cassowary]] resides here.
 #### Bas'Taurus
 The southern region of the Sara Dominion. This area includes the regions of the cities [[Regulus]] and [[Archela]]. The climate is hot and arid, consisting mainly of savannas. The region of Archela that used to be under the control of the chimaera general [[Antares]] is more desert-like, with Archela itself being built on top of an oasis. It is partially named after [[House Taurus]], who have significant influence over the region as a whole.
+## Economy
+The Sara Dominion uses their own currency, following the Yuphrali tradition of using copper, silver, and gold pieces, where a copper piece is a Nock, a silver piece is a Fletching, and a gold piece is a Crest. A platinum piece, or alternatively a collection of ten crests is called a Crown.
+Bas'Taurus has an ancient currency known as Horns, which are the old equivalent of electrum pieces.

@@ -7,4 +7,4 @@ publish: true
 ![[XYLEMIA.png|300]]
 *Art from [Picrew](https://picrew.me/en/image_maker/2480089), and as such is not accurate to canon.*
 ###### (she/her) - Played by Zae
-Xylemia of Gaard is a member of the [[Red Sisters]] from [[Dreygaard]]. She created the [[Ichor]] mutagen-carrying substance known as [[Nectar]], and is the only known mortal proficient in mutagencraft.
+Xylemia of Gaard is a member of the [[Red Sisters]] from [[Dreygaard]]. She created the [[Ichor]] mutagen-carrying substance known as [[Nectar]], and is the only known mortal proficient in mutagencraft. She was born in [[Hafen]], a small town south of Dreygaard city.

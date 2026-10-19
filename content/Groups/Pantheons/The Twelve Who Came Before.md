@@ -13,7 +13,7 @@ The Twelve Who Came Before are the original gods of [[Eternus]] who descended fr
 - [[Typhon]], the Predator
 - [[Moradin]], the Allhammer
 - [[Urvox]], the Convoker
-- [[Yuphra]], the Soulweaver
+- [[Yuphra]], the Weaver
 - [[The Sanguine Lord]]
 - [[The Shepherd]]
 - [[The Wanderer]]
